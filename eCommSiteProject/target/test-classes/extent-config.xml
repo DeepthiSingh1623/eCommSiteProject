@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<extentreports>
+	<configuration>
+	<encoding>UTF-8</encoding>
+	<documentTitle>Cucumber Extent Reports</documentTitle>
+	<reportName>eComm-SmokeTest-Report</reportName>
+	<reportHeadline>-v1.1.0</reportHeadline>
+	</configuration>
+</extentreports>
